@@ -1,0 +1,158 @@
+.aaf{
+    display: flex;
+    gap: 20px;
+
+}
+.binti h3{
+    margin-top: -1px;
+    margin-left: 20px;
+}
+/* label{
+    font-size: 1.2em;
+    font-weight: bold;
+   
+} */
+.aaf input{
+    width: 200px;
+    height: 25px;
+    padding-left: 10px;
+    /* padding: 5px 30px; */
+    border-radius: 20px;
+    border: none;
+    outline-color: rgb(238, 77, 24);
+}
+.fy{
+    background-color:   rgb(25, 69, 75);
+    color: rgb(252, 249, 249);
+    width: 400px;
+    height: 490px;
+   padding: 30px;
+   margin-left: 400px;
+   /* margin-top: 200px; */
+   border-radius: 20px;
+   position: relative;
+
+
+   /* margin-bottom: 100px;
+   margin-bottom: 40px; */
+   /* padding-top: 100px; */
+}
+.kj{
+    background-color: #6d95ec;
+    height: 590px;
+padding-top: 50px;
+}
+span{
+    color:  #D67592 ;
+}
+.aisho{
+    margin-top: 30px;
+}
+.aisho input{
+    /* padding: 9px 170px; */
+    width: 350px;
+    height: 35px;
+    padding-left: 15px;
+    border-radius: 20px;
+    border: none;
+    outline-color: rgb(238, 77, 24);
+}
+.mam{
+    /* margin-top: 10px; */
+}
+.mam input{
+    /* padding: 15px 170px; */
+    width: 400px;
+    height: 190px;
+    padding-left: 15px;
+    border-radius: 20px;
+    border: none;
+    outline-color: rgb(238, 77, 24);
+
+}
+button{
+    position: absolute;
+    margin-left: 150px;
+    border: none;
+    background-color: transparent;
+    background-color: rgb(243, 13, 90);
+    width: 100px;
+    height: 30px;
+    border-radius: 10px;
+    color: white;
+    font-weight: bold;
+   
+    margin-top: 90px;
+    margin-top: -25px;
+}
+.fy h1{
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+.header{
+    display: flex;
+    justify-content: space-between;
+    padding: 40px 60px;
+    
+}
+ul{
+    display: flex;
+    list-style: none;
+    gap: 40px;
+    font-size: 23px;
+}
+.btn{
+    background-color: transparent;
+    border: none;
+    background-color: #D67592;
+    width: 120px;
+    height: 50px;
+    font-size: 19px;
+    border-radius: 20px;
+    margin-top: -10px;
+    color: white;
+    margin-left: 1000px;
+}
+.kl{
+    display: flex;
+    margin-top: -30px;
+}
+.kl h1{
+    margin-top: 20px;
+}
+.logo img {
+    margin-top: -10px;
+}
+.two{
+    display: flex;
+}
+ul :hover{
+    background-color: #D67592;
+    width: 80px;
+    height: 40px;
+    text-decoration: underline white;
+    border-radius: 20px;
+    padding: 10px 20px;
+ font-size: 27px;
+ margin-top: -50px;
+
+ 
+ 
+ }
+ a{
+    text-decoration: none;
+    color: black;
+ }
+ 
+ 
+ 
